@@ -9,7 +9,7 @@
   "dependencies": {
     "dimension": "^0.1.6",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.3",
+    "react-native": "0.70.6",
     "react-timer-mixin": "^0.13.4"
   },
   "devDependencies": {
